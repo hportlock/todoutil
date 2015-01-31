@@ -15,7 +15,7 @@ pip install -r requirements.txt
 
 Run the script, it will ask for the path to your todo.txt file and your API
 token from todoist. Your API token can be found by logging into the todoist
-web site and looking under the account tab of settings.
+web site and looking under Settings -> Account.
 
 ```bash
 ./txttodoist.py
