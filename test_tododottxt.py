@@ -2,8 +2,8 @@
 
 import unittest
 
-from todoutil import parse_task
-from todoutil import Task
+from task import Task
+from tododottxt import parse_task
 
 class TestParseTodo(unittest.TestCase):
 
