@@ -1,3 +1,6 @@
+# Deprecated
+This project is no longer maintained.
+
 # Todoutil
 
 Todoutil is a python program that uploads todo.txt formatted files into
